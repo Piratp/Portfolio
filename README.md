@@ -1,6 +1,9 @@
+# <i>BĘDZIE JESZCZE POPRAWIANE/UZUPEŁNIANE I UPIĘKSZANE!</i>
+
+
 # Portfolio
 
-%(#F​​F000​0)[BĘDZIE JESZCZE POPRAWIANE/UZUPEŁNIANE I UPIĘKSZANE!] 
+
 
 I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań. <br>
 I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Additionally, I am responsible for proper inventory at the stores.
