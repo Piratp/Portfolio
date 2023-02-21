@@ -2,9 +2,9 @@
 
 I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań.
 
-Workshops: 7 days HTML/CSS martathon with GoIt, 2 hours SQL coure from https://www.kursysql.pl/
-Useful tools: Github, Devtools, Slack, SQL
-Skills: Analitical attitiude, detail oriented, interpersonal skills
+Workshops: 7 days HTML/CSS martathon with GoIt, 2 hours SQL course from https://www.kursysql.pl/ <br>
+Useful tools: Github, Devtools, Slack, SQL <br>
+Skills: Analitical attitiude, detail oriented, interpersonal skills <br>
 
 Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
 
