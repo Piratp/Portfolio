@@ -1,6 +1,7 @@
 # Portfolio
 
-I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań.
+I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań. <br>
+I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Additionally, I am responsible for proper inventory at the stores.
 
 * Workshops: 7 days HTML/CSS martathon with GoIt, 2 hours SQL course from https://www.kursysql.pl/ <br>
 * Useful tools: Github, Devtools, Slack, SQL <br>
