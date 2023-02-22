@@ -37,7 +37,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 
 ## Skills
 * Analitical attitiude
-* Detail oriented
+* Detail-oriented
 * Interpersonal skills
 
 ## Contact
