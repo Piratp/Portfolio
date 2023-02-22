@@ -3,20 +3,23 @@
 <br>
 <br>
 
-# Portfolio
+## Portfolio
 
 
+## About me
 
 I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań. <br>
-I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Additionally, I am responsible for proper inventory at the stores.
+I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Also, I am responsible for proper store stock and allocating goods to the stores where needed. <br>
+Currently, I am interested in changing my career path and want to start gaining experience in manual testing. I am about to finish testing workshop organized by DareIt.
 
-* Workshops: 7 days HTML/CSS martathon with GoIt, 2 hours SQL course from https://www.kursysql.pl/ <br>
+
+## Courses: 7 days HTML/CSS martathon with GoIt, 2 hours SQL course from https://www.kursysql.pl/ <br>
 * Useful tools: Github, Devtools, Slack, SQL <br>
 * Skills: Analitical attitiude, detail oriented, interpersonal skills <br>
 
 Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
 
-<b> or </b>
+<b> _or_or </b>
 
 <img src="https://user-images.githubusercontent.com/121132379/220452334-e3a5f01f-5fa0-4895-b509-4f33e58052c4.png" width=250 height =250> <br>
 
