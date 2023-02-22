@@ -14,12 +14,12 @@ I work as a demand planner. I make forecasts, prepare sales plans and check stoc
 Currently, I am interested in changing my career path and want to start gaining experience in manual testing. I am about to finish testing workshop organized by    Dare IT.
 
 
-## Courses 
+## :mortar_board: Courses 
 * Manual testing - DareIT_challenge
 * HTML/CSS - 7 days martathon with GoIt
 * SQL - course from https://www.kursysql.pl/
 
-## Useful tools
+## :wrench: Useful tools
 * Github 
 * Devtools
 * Slack
@@ -29,18 +29,18 @@ Currently, I am interested in changing my career path and want to start gaining 
 * MS Dynamics AX
 * Mi9 Retail
 
-## Tech skills
+## :bulb: Tech skills
 * SQL
 * Manual testing
 * Writing test cases
 * Preparing bugs report
 
-## Skills
+## :pushpin: Skills
 * Analitical attitiude
 * Detail-oriented
 * Interpersonal skills
 
-## Contact
+## :email: Contact
 * email: piotr.sobolewski1994@gmail.com
 * Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
 
