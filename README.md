@@ -42,7 +42,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 * Interpersonal skills
 
 ## :basketball: Interests
-* basketball
+* Basketball
 * NBA
 * Boarding games with friends
 * Long walks with my dog.
