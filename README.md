@@ -7,14 +7,14 @@ do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
 # Portfolio
 
 
-## About me
+## :boy: About me 
 
 I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań. <br>
 I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Also, I am responsible for proper store stock and allocating goods to the stores where needed. <br>
 Currently, I am interested in changing my career path and want to start gaining experience in manual testing. I am about to finish testing workshop organized by    Dare IT.
 
 
-## Courses
+## Courses 
 * Manual testing - DareIT_challenge
 * HTML/CSS - 7 days martathon with GoIt
 * SQL - course from https://www.kursysql.pl/
