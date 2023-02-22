@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
+%(#F​​F000​0)[do zrobienia - linki otwierane w nowym oknie (linkedin itp.)]
 
 # Portfolio
 
