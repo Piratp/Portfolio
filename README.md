@@ -6,7 +6,7 @@ do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
 
 
 # Portfolio
-http://github.com – automatic! [GitHub](http://github.com) 
+[GitHub](http://github.com) 
 
 ## :boy: About me 
 
@@ -18,7 +18,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 ## :mortar_board: Courses 
 * Manual testing - DareIT_challenge
 * HTML/CSS - 7 days martathon with GoIt
-* SQL - course from https://www.kursysql.pl/
+* SQL - SQL w 120 min https://www.kursysql.pl/
 
 ## :wrench: Useful tools
 * Github 
