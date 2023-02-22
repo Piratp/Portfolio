@@ -17,7 +17,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 
 ## :mortar_board: Courses 
 * Manual testing - [DareIT_challenge](https://www.dareit.io/challenges/qa-manual-testing)
-* HTML/CSS - 7 days martathon with GoIt
+* HTML/CSS - [7 days martathon with GoIt](https://m.goit.global/pl/?utm_source=site&utm_medium=mainsite&utm_campaign=button)
 * SQL - [SQL w 120 min](https://www.kursysql.pl/)
 
 ## :wrench: Useful tools
