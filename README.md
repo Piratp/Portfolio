@@ -2,6 +2,7 @@
 <br>
 <br>
 <br>
+do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
 
 # Portfolio
 
