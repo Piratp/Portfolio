@@ -2,8 +2,9 @@
 <br>
 <br>
 <br>
-%(#F​​F000​0)[do zrobienia - linki otwierane w nowym oknie (linkedin itp.)]
+do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
 
+![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) 
 # Portfolio
 
 
