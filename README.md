@@ -43,7 +43,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 
 ## :email: Contact
 * email: piotr.sobolewski1994@gmail.com
-* Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
+* Find me on [LinkedIn](https://www.linkedin.com/in/piotr-sobolewski-4143b4258/) <br>
 
 <b> or </b>
 
