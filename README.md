@@ -24,9 +24,14 @@ Currently, I am interested in changing my career path and want to start gaining 
 * Slack
 * SQL
 
-## Skills: Analitical attitiude, detail oriented, interpersonal skills <br>
+## Skills
+* Analitical attitiude
+* Detail oriented
+* Interpersonal skills
 
-Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
+## Contact
+* email: piotr.sobolewski1994@gmail.com
+* Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
 
 <b> or </b>
 
