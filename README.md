@@ -4,9 +4,9 @@
 <br>
 do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
 
-![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) 
-# Portfolio
 
+# Portfolio
+http://github.com – automatic! [GitHub](http://github.com) 
 
 ## :boy: About me 
 
@@ -18,7 +18,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 ## :mortar_board: Courses 
 * Manual testing - DareIT_challenge
 * HTML/CSS - 7 days martathon with GoIt
-* SQL - Format: ![ course from] (https://www.kursysql.pl/)
+* SQL - course from https://www.kursysql.pl/
 
 ## :wrench: Useful tools
 * Github 
