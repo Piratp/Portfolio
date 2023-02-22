@@ -35,7 +35,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 * Writing test cases
 * Preparing bugs report
 
-## :pushpin: Skills
+## :dart: Skills
 * Analitical attitiude
 * Detail-oriented
 * Interpersonal skills
