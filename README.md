@@ -18,7 +18,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 ## :mortar_board: Courses 
 * Manual testing - DareIT_challenge
 * HTML/CSS - 7 days martathon with GoIt
-* SQL - course from (https://www.kursysql.pl/) Format: ![SQL COURSE](url)
+* SQL - Format: ![ course from] (https://www.kursysql.pl/)
 
 ## :wrench: Useful tools
 * Github 
