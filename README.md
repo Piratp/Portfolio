@@ -22,7 +22,17 @@ Currently, I am interested in changing my career path and want to start gaining 
 * Github 
 * Devtools
 * Slack
+* XAMPP
+* Google Drive
+* MS Office
+* MS Dynamics AX
+* Mi9 Retail
+
+## Tech skills
 * SQL
+* Manual testing
+* Writing test cases
+* Preparing bugs report
 
 ## Skills
 * Analitical attitiude
