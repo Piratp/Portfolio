@@ -18,7 +18,12 @@ Currently, I am interested in changing my career path and want to start gaining 
 * HTML/CSS - 7 days martathon with GoIt
 * SQL - course from https://www.kursysql.pl/
 
-## Useful tools: Github, Devtools, Slack, SQL
+## Useful tools
+* Github 
+* Devtools
+* Slack
+* SQL
+
 ## Skills: Analitical attitiude, detail oriented, interpersonal skills <br>
 
 Find me on LinkedIn: https://www.linkedin.com/in/piotr-sobolewski-4143b4258/ <br>
