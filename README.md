@@ -30,7 +30,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 * MS Dynamics AX
 * Mi9 Retail
 
-## My projects
+## :chart_with_upwards_trend: My projects
 *
 *
 *
