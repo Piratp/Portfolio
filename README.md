@@ -1,10 +1,3 @@
-# <i>BĘDZIE JESZCZE POPRAWIANE/UZUPEŁNIANE I UPIĘKSZANE!</i>
-<br>
-<br>
-<br>
-do zrobienia - linki otwierane w nowym oknie (linkedin itp.)
-
-
 # Portfolio
 [GitHub](http://github.com) 
 
