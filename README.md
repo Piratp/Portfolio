@@ -1,5 +1,4 @@
 # Portfolio
-[GitHub](http://github.com) 
 
 ## :boy: About me 
 
