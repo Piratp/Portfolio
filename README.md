@@ -30,6 +30,11 @@ Currently, I am interested in changing my career path and want to start gaining 
 * MS Dynamics AX
 * Mi9 Retail
 
+## My projects
+*
+*
+*
+
 ## :bulb: Tech skills
 * SQL
 * Manual testing
