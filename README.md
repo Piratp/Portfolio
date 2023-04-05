@@ -31,10 +31,10 @@ Currently, I am interested in changing my career path and want to start gaining 
 * Mi9 Retail
 
 ## :chart_with_upwards_trend: My projects
-[Scouts panel](https://scouts.futbolkolektyw.pl/login)
-*
-*
-*
+### [Scouts panel](https://scouts.futbolkolektyw.pl/login)
+* [Test cases](https://docs.google.com/spreadsheets/d/1GKEol7qXYTJC702BSuO5UA6nBO4VGaeRlJz4aEMWQjU/edit?usp=sharing)
+[Bugs](https://docs.google.com/spreadsheets/d/168EeoYm0BrpWD-Cd90qh1_G7bxHDfJ5zn5qIMNWSWvY/edit?usp=sharing)
+
 
 ## :bulb: Tech skills
 * SQL
