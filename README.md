@@ -26,7 +26,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 ### [Scouts panel](https://scouts.futbolkolektyw.pl/login)
 * [Test cases](https://docs.google.com/spreadsheets/d/1GKEol7qXYTJC702BSuO5UA6nBO4VGaeRlJz4aEMWQjU/edit?usp=sharing)
 * [Bugs report 1](https://docs.google.com/spreadsheets/d/168EeoYm0BrpWD-Cd90qh1_G7bxHDfJ5zn5qIMNWSWvY/edit?usp=sharing)
-* [Bugs report 1](https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeofNQ/edit?usp=sharing)
+* [Bugs report 2](https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeofNQ/edit?usp=sharing)
 * [Test report](https://docs.google.com/document/d/11ImyNClpeZSjrsCMDP0F3HBYX2PWNdFbvWF78oco2S4/edit?usp=sharing)
 
 
