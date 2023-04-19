@@ -44,7 +44,7 @@ Currently, I am interested in changing my career path and want to start gaining 
 * Basketball
 * NBA
 * Boarding games with friends
-* Long walks with my dog.
+* Long walks with my dog
 
 ## :email: Contact
 * email: piotr.sobolewski1994@gmail.com
