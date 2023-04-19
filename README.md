@@ -3,8 +3,8 @@
 ## :boy: About me 
 
 I am Piotr Sobolewski. I graduated from finance and accounting at the University of Economics in Poznań. <br>
-I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Also, I am responsible for proper store stock and allocating goods to the stores where needed. <br>
-Currently, I am interested in changing my career path and want to start gaining experience in manual testing. I am about to finish testing workshop organized by    Dare IT.
+I work as a demand planner. I make forecasts, prepare sales plans and check stock at the warehouse. Also, I am responsible for proper store stock and allocating goods to the stores where needed. In addition, I work with buying and logistics teams. I contact local and global suppliers.  <br>
+Currently, I am interested in changing my career path and want to start gaining experience in IT. I have just finished testing workshop organized by    Dare IT.
 
 
 ## :mortar_board: Courses 
