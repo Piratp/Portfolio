@@ -14,7 +14,6 @@ Currently, I am interested in changing my career path and want to start gaining 
 
 ## :wrench: Useful tools
 * Github 
-* Devtools
 * Slack
 * XAMPP
 * Google Drive
